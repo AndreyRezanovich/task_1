@@ -1,0 +1,17 @@
+body {
+    background-color: #3f423f;
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    display: flex;
+}
+
+p {
+    margin: 10px;
+}
+
+#par-4 {
+    text-decoration: line-through;
+}
